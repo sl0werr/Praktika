@@ -1,0 +1,512 @@
+# Translation of Themes - Boxing Club in Russian
+# This file is distributed under the same license as the Themes - Boxing Club package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-01 13:52:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.9\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Boxing Club\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "This Boxing Club Wordpress theme is designed cleanly and attractively for boxing school, gym coach, or fighting club website. Coding issues are no more a concern in this theme, easily edit, or update design & content as per your liking."
+msgstr "Эта тема WordPress для боксерского клуба разработана чисто и привлекательно для веб-сайта школы бокса, тренера тренажерного зала или бойцовского клуба. Проблемы с кодированием больше не беспокоят в этой теме, легко редактируйте или обновляйте дизайн и контент по своему вкусу"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Boxing Club"
+msgstr "Зал Бокса"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:30 template-parts/content-single.php:25
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+#: template-parts/content-page.php:18 template-parts/content-single.php:13
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Пожалуйста, попробуйте другие ключевые слова."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/content-search.php:31 template-parts/content.php:30
+msgid "By"
+msgstr "Автор"
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search ..."
+msgstr "Поиск ..."
+
+#: searchform.php:12 searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Найдено по запросу:"
+
+#. translators: %s: post title
+#: inc/template-tags.php:57
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Добавить комментарий<span class=\"screen-reader-text\"> к записи %s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:30
+msgctxt "post author"
+msgid "By %s"
+msgstr "Автор: %s"
+
+#: inc/hook/structure.php:49
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: inc/hook/custom.php:321
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: inc/hook/custom.php:317
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/hook/custom.php:171
+msgid " Theme Boxing Club %s"
+msgstr " Тема Boxing Club %s"
+
+#: inc/hook/basic.php:110
+msgid "Add New"
+msgstr "Добавить новую"
+
+#: inc/hook/basic.php:51
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Выберите &mdash;"
+
+#: inc/hook/basic.php:20
+msgid "Home"
+msgstr "Главная"
+
+#: inc/customizer/topbar.php:148
+msgid "Social Link 4"
+msgstr "Ссылки на соцсети 4"
+
+#: inc/customizer/topbar.php:130
+msgid "Social Link 3"
+msgstr "Ссылки на соцсети 3"
+
+#: inc/customizer/topbar.php:113
+msgid "Social Link 2"
+msgstr "Ссылки на соцсети 2"
+
+#: inc/customizer/topbar.php:96 inc/customizer/topbar.php:114
+#: inc/customizer/topbar.php:131 inc/customizer/topbar.php:149
+msgid "Enter valid url."
+msgstr "Введите верный url"
+
+#: inc/customizer/topbar.php:95
+msgid "Social Link 1"
+msgstr "Ссылки на соцсети 1"
+
+#: inc/customizer/topbar.php:78
+msgid "Show Social Links"
+msgstr "Показать ссылки на соцсети"
+
+#: inc/customizer/topbar.php:60
+msgid "Social Links"
+msgstr "Ссылки на соцсети"
+
+#: inc/customizer/topbar.php:50
+msgid "Enter phone number."
+msgstr "Введите номер телефона."
+
+#: inc/customizer/topbar.php:49
+msgid "Phone"
+msgstr "Номер телефона"
+
+#: inc/customizer/topbar.php:35
+msgid "Show Contact Info"
+msgstr "Показать контактные данные"
+
+#: inc/customizer/topbar.php:17
+msgid "Contact Info"
+msgstr "Контактная информация"
+
+#: inc/customizer/topbar.php:8
+msgid "Header Top"
+msgstr "Верх шапки"
+
+#: inc/customizer/theme-section.php:267
+msgid "Display Header Image"
+msgstr "Отображать изображение header"
+
+#: inc/customizer/theme-section.php:255
+msgid "Enable content on A static page."
+msgstr "Включить контент на статических страницах"
+
+#: inc/customizer/theme-section.php:254
+msgid "Enable Homepage Content"
+msgstr "Включить содержимое главной страницы"
+
+#: inc/customizer/theme-section.php:242
+msgid "Click to enable content on static front page only."
+msgstr "Нажмите, чтобы включить содержимое только на статической главной странице."
+
+#: inc/customizer/theme-section.php:241
+msgid "Enable Content"
+msgstr "Включить содержимое"
+
+#: inc/customizer/theme-section.php:227
+msgid "Copyright Text"
+msgstr "Текст, защищенный авторским правом"
+
+#: inc/customizer/theme-section.php:211
+msgid "Footer Setting"
+msgstr "Настройка нижнего колонтитула"
+
+#: inc/customizer/theme-section.php:202
+msgid "Button Label"
+msgstr "Этикетка кнопки"
+
+#: inc/customizer/theme-section.php:184
+msgid "Blog Title"
+msgstr "Заголовок блога"
+
+#: inc/customizer/theme-section.php:168
+msgid "Blog / Archive Settings"
+msgstr "Настройки блога / архива"
+
+#: inc/customizer/theme-section.php:149 inc/customizer/theme-section.php:159
+msgid "Excerpt Length"
+msgstr "Длина отрывка (в словах)"
+
+#: inc/customizer/theme-section.php:134
+msgid "Single Post Layout"
+msgstr "Макет одиночной записи"
+
+#: inc/customizer/theme-section.php:110
+msgid "Page Layout"
+msgstr "Макет страницы"
+
+#: inc/customizer/theme-section.php:85
+msgid "Archive Layout"
+msgstr "Макет архива"
+
+#: inc/customizer/theme-section.php:61
+msgid "Blog Layout"
+msgstr "Макет блога"
+
+#: inc/customizer/theme-section.php:45
+msgid "Sidebar Layout"
+msgstr "Макет Боковой панели"
+
+#: inc/customizer/theme-section.php:34
+msgid "Display Page Title"
+msgstr "Отобразить заголовок страницы"
+
+#: inc/customizer/theme-section.php:22
+msgid "Page Title"
+msgstr "Название страницы"
+
+#: inc/customizer/theme-section.php:13
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: inc/customizer/sanitize.php:52
+msgid "--Select--"
+msgstr "--Выбрать--"
+
+#: inc/customizer/home-sections/featured-slider.php:249
+msgid "Fade"
+msgstr "Исчезание"
+
+#: inc/customizer/home-sections/featured-slider.php:229
+msgid "Draggable"
+msgstr "Перетаскиваемый"
+
+#: inc/customizer/home-sections/featured-slider.php:209
+msgid "Autoplay"
+msgstr "Автовоспроизведение"
+
+#: inc/customizer/home-sections/featured-slider.php:189
+msgid "Arrows"
+msgstr "Стрелки"
+
+#: inc/customizer/home-sections/featured-slider.php:169
+msgid "Infinite"
+msgstr "Бесконечно"
+
+#: inc/customizer/home-sections/featured-slider.php:144
+msgid "Delay Speed (Max: 5000)"
+msgstr "Скорость задержки (Макс.: 5000)"
+
+#: inc/customizer/home-sections/featured-slider.php:122
+msgid "Select Post #%1$s"
+msgstr "Выберите запись #%1$s"
+
+#: inc/customizer/home-sections/featured-slider.php:103
+msgid "Select Page #%1$s"
+msgstr "Выберите страницу #%1$s"
+
+#: inc/customizer/home-sections/featured-slider.php:13
+msgid "Slider Section"
+msgstr "Раздел Слайдер"
+
+#: inc/customizer/home-sections/featured-services.php:13
+msgid "Services Section"
+msgstr "Раздел Услуги"
+
+#: inc/customizer/home-sections/featured-services.php:76
+msgid "Section Title"
+msgstr "Заголовок раздела"
+
+#: inc/customizer/home-sections/featured-features.php:169
+#: inc/customizer/home-sections/featured-services.php:170
+msgid "Post #%1$s"
+msgstr "Запись #%1$s"
+
+#: inc/customizer/home-sections/featured-features.php:150
+#: inc/customizer/home-sections/featured-services.php:151
+msgid "Page #%1$s"
+msgstr "Страница %1$s"
+
+#: inc/customizer/home-sections/featured-features.php:131
+msgid "Icon #%1$s"
+msgstr "Иконка #%1$s"
+
+#: inc/customizer/home-sections/featured-features.php:111
+#: inc/customizer/home-sections/featured-services.php:131
+#: inc/customizer/home-sections/featured-slider.php:83
+msgid "Post"
+msgstr "Запись"
+
+#: inc/customizer/home-sections/featured-features.php:110
+#: inc/customizer/home-sections/featured-services.php:130
+#: inc/customizer/home-sections/featured-slider.php:82
+msgid "Page"
+msgstr "Страница"
+
+#: inc/customizer/home-sections/featured-features.php:104
+#: inc/customizer/home-sections/featured-services.php:124
+#: inc/customizer/home-sections/featured-slider.php:76
+msgid "Content Type"
+msgstr "Тип содержимого"
+
+#: inc/customizer/home-sections/featured-features.php:76
+#: inc/customizer/home-sections/featured-services.php:96
+msgid "Column"
+msgstr "Столбец"
+
+#: inc/customizer/home-sections/featured-features.php:51
+#: inc/customizer/home-sections/featured-services.php:51
+#: inc/customizer/home-sections/featured-slider.php:51
+msgid "Items (Max: 6)"
+msgstr "Предметы (максимум: 6)"
+
+#: inc/customizer/home-sections/featured-features.php:32
+#: inc/customizer/home-sections/featured-services.php:32
+#: inc/customizer/home-sections/featured-slider.php:32
+msgid "Enable Section"
+msgstr "Включить раздел"
+
+#: inc/customizer/home-sections/featured-features.php:13
+msgid "Features Section"
+msgstr "Раздел Функции"
+
+#: inc/customizer/home-section.php:13
+msgid "Homepage Sections"
+msgstr "Раздел главной страницы"
+
+#: inc/customizer/default.php:66
+msgid "Copyright &copy; All rights reserved."
+msgstr "Авторские права &copy; Все права защищены"
+
+#: inc/customizer/default.php:63
+msgid "Blog"
+msgstr "Блог"
+
+#: inc/customizer/default.php:62
+msgid "Read more"
+msgstr "Подробнее"
+
+#: inc/customizer/default.php:50
+msgid "Our Services"
+msgstr "Наши услуги"
+
+#: inc/customizer/default.php:32
+msgid "Read More"
+msgstr "Подробнее"
+
+#: inc/custom-header.php:34
+msgctxt "header image description"
+msgid "Default Banner"
+msgstr "Банер по умолчанию"
+
+#: functions.php:252
+msgctxt "Space Grotesk: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:248
+msgctxt "Lora: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:205 functions.php:213 functions.php:221 functions.php:229
+msgid "Footer %d"
+msgstr "Подвал %d"
+
+#: functions.php:198
+msgid "Add widgets here."
+msgstr "Добавьте виджеты здесь"
+
+#: functions.php:196
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: functions.php:166
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:165
+msgid "huge"
+msgstr "огромный"
+
+#: functions.php:160
+msgid "L"
+msgstr "L"
+
+#: functions.php:159
+msgid "larger"
+msgstr "большой"
+
+#: functions.php:154
+msgid "M"
+msgstr "М"
+
+#: functions.php:153
+msgid "regular"
+msgstr "обычный"
+
+#: functions.php:148
+msgid "S"
+msgstr "S"
+
+#: functions.php:147
+msgid "small"
+msgstr "маленький"
+
+#: functions.php:138
+msgid "Black"
+msgstr "Черный"
+
+#: functions.php:133
+msgid "Grey"
+msgstr "Серый"
+
+#: functions.php:128
+msgid "Brown"
+msgstr "Коричневый"
+
+#: functions.php:123
+msgid "Green"
+msgstr "Зеленый"
+
+#: functions.php:118
+msgid "Blue"
+msgstr "Синий"
+
+#: functions.php:113
+msgid "Purple"
+msgstr "Фиолетовый"
+
+#: functions.php:108
+msgid "Pink"
+msgstr "Розовый"
+
+#: functions.php:103
+msgid "Red"
+msgstr "Красный"
+
+#: functions.php:98
+msgid "Orange"
+msgstr "Оранжевый"
+
+#: functions.php:93
+msgid "Yellow"
+msgstr "Желтый"
+
+#: functions.php:88
+msgid "Tan"
+msgstr "Жёлто-коричневый"
+
+#: functions.php:47
+msgid "Primary"
+msgstr "Основной"
+
+#: comments.php:91
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: comments.php:57 comments.php:78
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:56 comments.php:77
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:53 comments.php:74
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Ответ к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Ответ к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s Ответ к &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Один ответ к &ldquo;%s&rdquo;"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться одной из ссылок ниже или поиском."
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Эта страница не найдена."
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Rapid Themes"
+msgstr "Быстрые темы"
